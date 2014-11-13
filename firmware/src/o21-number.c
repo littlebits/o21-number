@@ -4,7 +4,6 @@
 *	SysClk = 1MHz (originating from internal 8 MHz RC oscillator and 1/8 prescalar)
 *	Created: 5/22/2014 5:16:05 PM
 *	Authors: littleBits Electronics, Inc.
-*			MJ, Rory, Kristin
 *
 * Copyright 2014 littleBits Electronics
 *

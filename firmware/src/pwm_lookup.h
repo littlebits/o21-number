@@ -2,7 +2,6 @@
  * pwm_lookup.h
  *
  * Created: 2/13/2014 5:38:29 PM
- *  Author: Rory
  *
  * Copyright 2014 littleBits Electronics
  *

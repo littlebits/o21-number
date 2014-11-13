@@ -2,7 +2,6 @@
  * led_display.h\
  *
  * Created: 5/22/2014 5:18:23 PM
- * Author: MJ, Rory, Kristin
  *
  * Copyright 2014 littleBits Electronics
  *
